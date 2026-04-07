@@ -1,56 +1,27 @@
 ```
 ┌──(shadow㉿shots)-[~]
 └─$ whoami
-```
+shadow — cybersecurity researcher · ethical hacker · builder of tools
 
-cybersecurity researcher · ethical hacker · builder of tools
-
----
-
-```
 ┌──(shadow㉿shots)-[~]
 └─$ cat focus.txt
-```
-
-```
 [*] penetration testing
-[*] vulnerability research  
+[*] vulnerability research
 [*] red team ops
 [*] security tooling
-```
 
----
-
-```
 ┌──(shadow㉿shots)-[~]
 └─$ ls -la projects/
-```
+drwxr-xr-x  pas/   — pentest assessment suite · manage full pentest workflow
 
-| repo | description |
-|------|-------------|
-| [pas](https://github.com/shadowshots7/pas) | pentest assessment suite — manage full pentest workflow |
-
----
-
-```
 ┌──(shadow㉿shots)-[~]
 └─$ cat stack.txt
-```
+linux · shell · skynet (intern)
 
-`python` `flask` `sqlite` `bash` `linux` `js`
-
----
-
-```
 ┌──(shadow㉿shots)-[~]
 └─$ cat contact.txt
-```
+socials coming soon...
 
-> *socials coming soon...*
-
----
-
-```
 ┌──(shadow㉿shots)-[~]
 └─$ █
 ```
