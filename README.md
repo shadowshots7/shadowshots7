@@ -16,8 +16,5 @@ Security researcher. Web application pentesting & bug bounty.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowshots7&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/shadowshots7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowshots7&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
----
-
-📝 [to-know](https://github.com/shadowshots7/to-know) — public notes on tools, protocols & techniques
