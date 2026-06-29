@@ -2,7 +2,7 @@
 
 # Daniel Domingo
 
-**Security Researcher · Web App Pentester · Bug Bounty Hunter**
+`Security Researcher · Web App Pentester · Bug Bounty Hunter`
 
 </div>
 
@@ -14,33 +14,25 @@
 - Bug bounty hunting
 - Security tooling & automation
 
----
-
 ### Stack
 
-**Languages & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Tools**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-004170?style=flat-square&logo=nmap&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=flat-square&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-222222?style=flat-square&logoColor=white)
-![amass](https://img.shields.io/badge/amass-5C2D91?style=flat-square&logoColor=white)
-
-**OS**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-0d1117?style=flat-square&logo=nmap&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-0d1117?style=flat-square&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-0d1117?style=flat-square&logoColor=white)
+![amass](https://img.shields.io/badge/amass-0d1117?style=flat-square&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-0d1117?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowshots7&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-&nbsp;
-![GitHub Streak](https://streak-stats.demolab.com?user=shadowshots7&theme=dark&hide_border=true)
+![snake](https://raw.githubusercontent.com/shadowshots7/shadowshots7/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+[`dbrandao.me`](https://dbrandao.me) &nbsp;·&nbsp; [`contato@dbrandao.me`](mailto:contato@dbrandao.me)
 
 </div>
