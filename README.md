@@ -14,7 +14,7 @@
 - Bug bounty hunting
 - Security tooling & automation
 
-### Stack
+### Arsenal
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
