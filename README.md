@@ -8,13 +8,9 @@
 
 ---
 
-### Focus
-
 - Web application penetration testing — OWASP WSTG methodology
 - Bug bounty hunting
 - Security tooling & automation
-
-### Arsenal
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
@@ -28,10 +24,6 @@
 ---
 
 <div align="center">
-
-![snake](https://raw.githubusercontent.com/shadowshots7/shadowshots7/output/github-contribution-grid-snake-dark.svg)
-
-<br>
 
 [`dbrandao.me`](https://dbrandao.me) &nbsp;·&nbsp; [`contato@dbrandao.me`](mailto:contato@dbrandao.me)
 
