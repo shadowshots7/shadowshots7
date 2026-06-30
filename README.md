@@ -4,13 +4,13 @@
 
 `Security Researcher · Web App Pentester · Bug Bounty Hunter`
 
-</div>
+<br>
 
----
+Web application penetration testing — OWASP WSTG methodology<br>
+Bug bounty hunting<br>
+Security tooling & automation
 
-- Web application penetration testing — OWASP WSTG methodology
-- Bug bounty hunting
-- Security tooling & automation
+<br>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
@@ -21,9 +21,7 @@
 ![amass](https://img.shields.io/badge/amass-0d1117?style=flat-square&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-0d1117?style=flat-square&logo=kalilinux&logoColor=white)
 
----
-
-<div align="center">
+<br>
 
 [`dbrandao.me`](https://dbrandao.me) &nbsp;·&nbsp; [`contato@dbrandao.me`](mailto:contato@dbrandao.me)
 
