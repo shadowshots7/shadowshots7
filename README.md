@@ -21,8 +21,4 @@ Security tooling & automation
 ![amass](https://img.shields.io/badge/amass-0d1117?style=flat-square&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-0d1117?style=flat-square&logo=kalilinux&logoColor=white)
 
-<br>
-
-[`dbrandao.me`](https://dbrandao.me) &nbsp;·&nbsp; [`contato@dbrandao.me`](mailto:contato@dbrandao.me)
-
 </div>
